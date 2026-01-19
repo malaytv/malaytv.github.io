@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tvmalaysia.pages.dev/sitemap.xml
