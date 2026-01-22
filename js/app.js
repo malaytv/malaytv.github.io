@@ -691,3 +691,8 @@ window.debugButtons = () => {
   const watchButtons = $$('.watch-btn');
   console.log(`Found ${watchButtons.length} Watch buttons`);
 };
+
+// Di app.js - tambahkan cache control
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js');
+}
