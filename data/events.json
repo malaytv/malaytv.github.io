@@ -1,0 +1,322 @@
+[
+  {
+    "id": "channel-01",
+    "name": "TV3",
+    "category": "terrestrial",
+    "description": "TV3 Malaysia - Saluran komersial pertama dan terbesar di Malaysia",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/6/69/TV3_%28Malaysia%29.svg/512px-TV3_%28Malaysia%29.svg.png",
+    "streams": [
+      {
+        "label": "Stream 1 (HD)",
+        "url": "https://tvmalaysia.pages.dev/stream/tv3"
+      }
+    ]
+  },
+  {
+    "id": "channel-02",
+    "name": "ASTRO AWANI",
+    "category": "berita",
+    "description": "Saluran berita 24 jam Astro - Berita terkini Malaysia & dunia",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "24h",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/9/9a/Astro_Awani_Logo.svg/512px-Astro_Awani_Logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Awani (HD)",
+        "url": "https://tvmalaysia.pages.dev/stream/awani"
+      }
+    ]
+  },
+  {
+    "id": "channel-03",
+    "name": "TV1",
+    "category": "terrestrial",
+    "description": "TV1 RTM - Saluran rasmi penyiaran awam Malaysia",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/TV1_%28Malaysia%29.svg/512px-TV1_%28Malaysia%29.svg.png",
+    "streams": [
+      {
+        "label": "Stream TV1",
+        "url": "https://tvmalaysia.pages.dev/stream/tv1"
+      }
+    ]
+  },
+  {
+    "id": "channel-04",
+    "name": "TV2",
+    "category": "terrestrial",
+    "description": "TV2 RTM - Saluran kedua penyiaran awam",
+    "language": "Melayu/Inggeris",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/9/94/TV2_%28Malaysia%29.svg/512px-TV2_%28Malaysia%29.svg.png",
+    "streams": [
+      {
+        "label": "Stream TV2",
+        "url": "https://tvmalaysia.pages.dev/stream/tv2"
+      }
+    ]
+  },
+  {
+    "id": "channel-05",
+    "name": "TV9",
+    "category": "terrestrial",
+    "description": "TV9 - Saluran hiburan dan berita terkini",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/4/4f/TV9_%28Malaysia%29_logo.svg/512px-TV9_%28Malaysia%29_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream TV9",
+        "url": "https://tvmalaysia.pages.dev/stream/tv9"
+      }
+    ]
+  },
+  {
+    "id": "channel-06",
+    "name": "8TV",
+    "category": "terrestrial",
+    "description": "8TV - Saluran hiburan Cina & Melayu",
+    "language": "Cina/Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/7a/8TV_%28Malaysia%29.svg/512px-8TV_%28Malaysia%29.svg.png",
+    "streams": [
+      {
+        "label": "Stream 8TV",
+        "url": "https://tvmalaysia.pages.dev/stream/8tv"
+      }
+    ]
+  },
+  {
+    "id": "channel-07",
+    "name": "TV ALHIJRAH",
+    "category": "islamik",
+    "description": "TV Alhijrah - Saluran Islamik rasmi Malaysia",
+    "language": "Melayu/Arab",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/9/9c/TV_Alhijrah_logo.svg/512px-TV_Alhijrah_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Alhijrah",
+        "url": "https://tvmalaysia.pages.dev/stream/alhijrah"
+      }
+    ]
+  },
+  {
+    "id": "channel-08",
+    "name": "BERNAMA TV",
+    "category": "berita",
+    "description": "Bernama TV - Saluran berita rasmi agensi berita Malaysia",
+    "language": "Melayu/Inggeris",
+    "quality": "HD",
+    "type": "24h",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/5/5f/Bernama_TV_logo.svg/512px-Bernama_TV_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Bernama",
+        "url": "https://tvmalaysia.pages.dev/stream/bernama"
+      }
+    ]
+  },
+  {
+    "id": "channel-09",
+    "name": "ASTRO SUPERSPORT",
+    "category": "sukan",
+    "description": "Astro Supersport - Saluran sukan utama Malaysia",
+    "language": "Melayu/Inggeris",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Astro_Supersport.svg/512px-Astro_Supersport.svg.png",
+    "streams": [
+      {
+        "label": "Stream Supersport",
+        "url": "https://tvmalaysia.pages.dev/stream/supersport"
+      }
+    ]
+  },
+  {
+    "id": "channel-10",
+    "name": "ASTRO PRIMA",
+    "category": "hiburan",
+    "description": "Astro Prima - Saluran hiburan Melayu utama",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/72/Astro_Prima_logo.svg/512px-Astro_Prima_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Prima",
+        "url": "https://tvmalaysia.pages.dev/stream/prima"
+      }
+    ]
+  },
+  {
+    "id": "channel-11",
+    "name": "ASTRO RIA",
+    "category": "hiburan",
+    "description": "Astro Ria - Saluran hiburan terkini",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/d/dc/Astro_Ria_logo.svg/512px-Astro_Ria_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Ria",
+        "url": "https://tvmalaysia.pages.dev/stream/ria"
+      }
+    ]
+  },
+  {
+    "id": "channel-12",
+    "name": "NTV7",
+    "category": "terrestrial",
+    "description": "NTV7 - Saluran hiburan dan maklumat",
+    "language": "Inggeris/Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/4/42/NTV7_%28Malaysia%29.svg/512px-NTV7_%28Malaysia%29.svg.png",
+    "streams": [
+      {
+        "label": "Stream NTV7",
+        "url": "https://tvmalaysia.pages.dev/stream/ntv7"
+      }
+    ]
+  },
+  {
+    "id": "channel-13",
+    "name": "TV OKEY",
+    "category": "terrestrial",
+    "description": "TV Okey RTM - Saluran untuk belia dan sukan",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/0/0f/TV_Okey_logo.svg/512px-TV_Okey_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Okey",
+        "url": "https://tvmalaysia.pages.dev/stream/okey"
+      }
+    ]
+  },
+  {
+    "id": "channel-14",
+    "name": "ASTRO WARNA",
+    "category": "hiburan",
+    "description": "Astro Warna - Saluran hiburan wanita",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/3/37/Astro_Warna_logo.svg/512px-Astro_Warna_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Warna",
+        "url": "https://tvmalaysia.pages.dev/stream/warna"
+      }
+    ]
+  },
+  {
+    "id": "channel-15",
+    "name": "ASTRO CERIA",
+    "category": "hiburan",
+    "description": "Astro Ceria - Saluran kanak-kanak",
+    "language": "Melayu/Inggeris",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/Astro_Ceria_logo.svg/512px-Astro_Ceria_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Ceria",
+        "url": "https://tvmalaysia.pages.dev/stream/ceria"
+      }
+    ]
+  },
+  {
+    "id": "channel-16",
+    "name": "BERITA RTM",
+    "category": "berita",
+    "description": "Berita RTM - Saluran berita rasmi RTM",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "24h",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/b/b5/Berita_RTM_logo.svg/512px-Berita_RTM_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Berita RTM",
+        "url": "https://tvmalaysia.pages.dev/stream/beritartm"
+      }
+    ]
+  },
+  {
+    "id": "channel-17",
+    "name": "SUKAN RTM",
+    "category": "sukan",
+    "description": "Sukan RTM - Liputan sukan tempatan & antarabangsa",
+    "language": "Melayu",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/72/Sukan_RTM_logo.svg/512px-Sukan_RTM_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Sukan RTM",
+        "url": "https://tvmalaysia.pages.dev/stream/sukanrtm"
+      }
+    ]
+  },
+  {
+    "id": "channel-18",
+    "name": "TV SARAWAK",
+    "category": "terrestrial",
+    "description": "TVS - Saluran khas untuk Sarawak",
+    "language": "Melayu/Iban",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/8/85/TV_Sarawak_logo.svg/512px-TV_Sarawak_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream TVS",
+        "url": "https://tvmalaysia.pages.dev/stream/tvs"
+      }
+    ]
+  },
+  {
+    "id": "channel-19",
+    "name": "TV SABAH",
+    "category": "terrestrial",
+    "description": "Saluran khas untuk Sabah",
+    "language": "Melayu/Kadazan",
+    "quality": "HD",
+    "type": "live",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/0/0e/TV_Sabah_logo.svg/512px-TV_Sabah_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Sabah",
+        "url": "https://tvmalaysia.pages.dev/stream/sabah"
+      }
+    ]
+  },
+  {
+    "id": "channel-20",
+    "name": "GO SHOP",
+    "category": "hiburan",
+    "description": "Go Shop - Saluran membeli-belah",
+    "language": "Melayu/Cina",
+    "quality": "HD",
+    "type": "24h",
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/3/34/Go_Shop_logo.svg/512px-Go_Shop_logo.svg.png",
+    "streams": [
+      {
+        "label": "Stream Go Shop",
+        "url": "https://tvmalaysia.pages.dev/stream/goshop"
+      }
+    ]
+  }
+]
