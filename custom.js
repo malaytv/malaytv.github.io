@@ -6,6 +6,6 @@ button.className = "control";
 
 button.addEventListener("click", function() {
   
-  window.open("https://www.tvmalaysia.homes/", "_blank");
+  window.open("https://www.usvideohub.com/", "_blank");
 });
 document.getElementById("btncnt").appendChild(button);
